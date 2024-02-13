@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "denPusher": {
+      "commandName": "Project",
+      "commandLineArgs": "upload pojpo c:\\recipes"
+    }
+  }
+}
